@@ -1,4 +1,4 @@
-# Credit Card Transaction Fraud Analysis 2025
+# Credit Card Transaction Fraud Analysis
 
 ## Overview
 
