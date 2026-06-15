@@ -183,16 +183,6 @@ credit-card-fraud-analysis/
 
 ---
 
-## Resume Highlights
-
-* Analysed 100,000 credit card transactions using Python, MySQL, and Power BI.
-* Identified 1,000 fraudulent transactions and 5,000 high-risk transactions.
-* Developed SQL-based fraud analysis workflows across locations, transaction types, and time periods.
-* Built an interactive Power BI dashboard with KPI metrics, filters, and fraud trend visualizations.
-* Created an end-to-end analytics pipeline from data preprocessing to business intelligence reporting.
-
----
-
 ## Author
 
 Sherlien Molly D
